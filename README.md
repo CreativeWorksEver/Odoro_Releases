@@ -1,3 +1,5 @@
+App download link: https://github.com/CreativeWorksEver/Odoro_Releases/releases
+
 # Odoro - Focus timer
 
 If you are exploring ways to stay productive without feeling overwhelmed, Here are the two working techniques that works for you: **Pomodoro** and **Flomodoro**.
